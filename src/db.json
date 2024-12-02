@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "login": "saadnaanaiy@gmail.com",
+      "password": "Math@12341234"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "titre": "Front End",
+      "genre": "Technique"
+    }
+  ]
+}
